@@ -8,5 +8,7 @@ int main(){
     printf("Hello, Cosmos!\n");
     printf("Hello, Space!\n");
     printf("goodbye, World!\n");
+
+    printf("Wave to Yogi!\n");
     return 0;
 }
