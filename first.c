@@ -13,5 +13,6 @@ int main(){
 
     printf("Hello Yogi!\n");
     printf("How are you Yogi?\n");
+    printf("Goodbye Yogi!\n");
     return 0;
 }
