@@ -10,5 +10,7 @@ int main(){
     printf("goodbye, World!\n");
 
     printf("Wave to Yogi!\n");
+
+    printf("Hello Yogi!\n");
     return 0;
 }
