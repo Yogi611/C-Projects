@@ -5,5 +5,6 @@ int main(){
     printf("Hello, Universe!\n");
     printf("Hello, Galaxy!\n");
     printf("Hello, Multiverse!\n");
+    printf("Hello, Cosmos!\n");
     return 0;
 }
