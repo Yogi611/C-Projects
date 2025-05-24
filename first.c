@@ -12,5 +12,6 @@ int main(){
     printf("Wave to Yogi!\n");
 
     printf("Hello Yogi!\n");
+    printf("How are you Yogi?\n");
     return 0;
 }
