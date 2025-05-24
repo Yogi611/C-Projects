@@ -7,5 +7,7 @@ int main(){
     printf("Hello, Multiverse!\n");
     printf("Hello, Cosmos!\n");
     printf("Hello, Space!\n");
+
+    printf("Hello Yogi!\n");
     return 0;
 }
